@@ -47,6 +47,9 @@ a:hover {
 abbr[title] {
   border-bottom: 1px dotted;
 }
+.color_gray{
+    background-color: #e0e0e0;
+}
 b,
 strong {
   font-weight: bold;
@@ -94,6 +97,7 @@ hr {
 pre {
   overflow: auto;
 }
+
 code,
 kbd,
 pre,
@@ -318,6 +322,10 @@ img {
 }
 .img-circle {
   border-radius: 50%;
+}
+.img-circle-prop{
+    width: 180px;
+    height: 180px;
 }
 hr {
   margin-top: 21px;
