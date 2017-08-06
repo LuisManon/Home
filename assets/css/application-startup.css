@@ -3,7 +3,6 @@
   font-weight: 500;
   letter-spacing: .05em;
   position: absolute;
-  
 }
 
 
@@ -13,14 +12,11 @@
   position: absolute;
   right: 0;
   bottom: -40px;
-    
-  
 }
 @media (min-width: 768px) {
   .app-graph {
     width: 100%;
     bottom: 0;
-    
   }
 }
 
@@ -28,7 +24,6 @@
 /* iphone block */
 .app-iphone-block {
   padding-bottom: 60px;
-    background-color: #F4F5F6;
 }
 @media (min-width: 768px) {
   .app-iphone-block {
@@ -41,11 +36,6 @@
 .app-code-block {
   background-color: #262F36;
   overflow: hidden;
-}
-
-.app-code-block2{
-    background-color: #262F36;
-    
 }
 .app-code {
   color: #6EA4CF;
@@ -109,20 +99,12 @@
 
 /* price plan block */
 .app-price-plans {
-  background-color: #fafafa ;
+  background-color: #F4F5F6;
 }
 .app-price-plans .container {
   margin-bottom: -60px;
 }
 
-/* price plan block */
-.mail-to{
-    background-color: #eeeeee;
-}
-
-.mail-to .container {
-  margin-bottom: -60px;
-}
 
 /* footer block */
 .app-footer {
